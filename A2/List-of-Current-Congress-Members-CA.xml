@@ -1,0 +1,577 @@
+
+<!DOCTYPE response SYSTEM "file:/Users/ruchitarathi/Dropbox/backup/f-2013/INFO-242/Due-Assignments/Assignment2/List-of-Current-Congress-Members.dtd">
+<response>
+<objects>
+
+<item>
+<district>null</district>
+<person>
+<firstname>Barbara</firstname>
+<lastname>Boxer</lastname>
+<name>Sen. Barbara Boxer [D-CA]</name>
+</person>
+<state>CA</state>
+<title_long>Senator</title_long>
+</item>
+
+<item>
+<district>52</district>
+<person>
+<firstname>Scott</firstname>
+<lastname>Peters</lastname>
+<name>Rep. Scott Peters [D-CA52]</name>
+</person>
+<state>CA</state>
+<title_long>Representative</title_long>
+</item>
+
+<item>
+<district>51</district>
+<person>
+<firstname>Juan</firstname>
+<lastname>Vargas</lastname>
+<name>Rep. Juan Vargas [D-CA51]</name>
+</person>
+<state>CA</state>
+<title_long>Representative</title_long>
+</item>
+<item>
+<district>47</district>
+<person>
+<firstname>Alan</firstname>
+<lastname>Lowenthal</lastname>
+<name>Rep. Alan Lowenthal [D-CA47]</name>
+</person>
+<state>CA</state>
+<title_long>Representative</title_long>
+</item>
+<item>
+<district>41</district>
+<person>
+<firstname>Mark</firstname>
+<lastname>Takano</lastname>
+<name>Rep. Mark Takano [D-CA41]</name>
+</person>
+<state>CA</state>
+<title_long>Representative</title_long>
+</item>
+<item>
+<district>36</district>
+<person>
+<firstname>Raul</firstname>
+<lastname>Ruiz</lastname>
+<name>Rep. Raul Ruiz [D-CA36]</name>
+</person>
+<state>CA</state>
+<title_long>Representative</title_long>
+</item>
+<item>
+<district>35</district>
+<person>
+<firstname>Gloria</firstname>
+<lastname>Negrete McLeod</lastname>
+<name>Rep. Gloria Negrete McLeod [D-CA35]</name>
+</person>
+<state>CA</state>
+<title_long>Representative</title_long>
+</item>
+<item>
+<district>29</district>
+<person>
+<firstname>Tony</firstname>
+<lastname>Cárdenas</lastname>
+<name>Rep. Tony Cárdenas [D-CA29]</name>
+</person>
+<state>CA</state>
+<title_long>Representative</title_long>
+</item>
+<item>
+<district>26</district>
+<person>
+<firstname>Julia</firstname>
+<lastname>Brownley</lastname>
+<name>Rep. Julia Brownley [D-CA26]</name>
+</person>
+<state>CA</state>
+<title_long>Representative</title_long>
+</item>
+<item>
+<district>21</district>
+<person>
+<firstname>David</firstname>
+<lastname>Valadao</lastname>
+<name>Rep. David Valadao [R-CA21]</name>
+</person>
+<state>CA</state>
+<title_long>Representative</title_long>
+</item>
+<item>
+<district>15</district>
+<person>
+<firstname>Eric</firstname>
+<lastname>Swalwell</lastname>
+<name>Rep. Eric Swalwell [D-CA15]</name>
+</person>
+<state>CA</state>
+<title_long>Representative</title_long>
+</item>
+<item>
+<district>8</district>
+<person>
+<firstname>Paul</firstname>
+<lastname>Cook</lastname>
+<name>Rep. Paul Cook [R-CA8]</name>
+</person>
+<state>CA</state>
+<title_long>Representative</title_long>
+</item>
+<item>
+<district>7</district>
+<person>
+<firstname>Ami</firstname>
+<lastname>Bera</lastname>
+<name>Rep. Ami Bera [D-CA7]</name>
+</person>
+<state>CA</state>
+<title_long>Representative</title_long>
+</item>
+<item>
+<district>2</district>
+<person>
+<firstname>Jared</firstname>
+<lastname>Huffman</lastname>
+<name>Rep. Jared Huffman [D-CA2]</name>
+</person>
+<state>CA</state>
+<title_long>Representative</title_long>
+</item>
+<item>
+<district>44</district>
+<person>
+<firstname>Janice</firstname>
+<lastname>Hahn</lastname>
+<name>Rep. Janice Hahn [D-CA44]</name>
+</person>
+<state>CA</state>
+<title_long>Representative</title_long>
+</item>
+
+<item>
+<district>37</district>
+<person>
+<firstname>Karen</firstname>
+<lastname>Bass</lastname>
+<name>Rep. Karen Bass [D-CA37]</name>
+</person>
+<state>CA</state>
+<title_long>Representative</title_long>
+</item>
+<item>
+<district>10</district>
+<person>
+<firstname>Jeff</firstname>
+<lastname>Denham</lastname>
+<name>Rep. Jeff Denham [R-CA10]</name>
+</person>
+<state>CA</state>
+<title_long>Representative</title_long>
+</item>
+<item>
+<district>3</district>
+<person>
+<firstname>John</firstname>
+<lastname>Garamendi</lastname>
+<name>Rep. John Garamendi [D-CA3]</name>
+</person>
+<state>CA</state>
+<title_long>Representative</title_long>
+</item>
+<item>
+<district>27</district>
+<person>
+<firstname>Judy</firstname>
+<lastname>Chu</lastname>
+<name>Rep. Judy Chu [D-CA27]</name>
+</person>
+<state>CA</state>
+<title_long>Representative</title_long>
+</item>
+
+
+
+<item>
+<district>4</district>
+<person>
+<firstname>Tom</firstname>
+<lastname>McClintock</lastname>
+<name>Rep. Tom McClintock [R-CA4]</name>
+</person>
+<state>CA</state>
+<title_long>Representative</title_long>
+</item>
+
+<item>
+<district>50</district>
+<person>
+<firstname>Duncan</firstname>
+<lastname>Hunter</lastname>
+<name>Rep. Duncan Hunter [R-CA50]</name>
+</person>
+<state>CA</state>
+<title_long>Representative</title_long>
+</item>
+
+<item>
+<district>14</district>
+<person>
+<firstname>Jackie</firstname>
+<lastname>Speier</lastname>
+<name>Rep. Jackie Speier [D-CA14]</name>
+</person>
+<state>CA</state>
+<title_long>Representative</title_long>
+</item>
+
+<item>
+<district>23</district>
+<person>
+<firstname>Kevin</firstname>
+<lastname>McCarthy</lastname>
+<name>Rep. Kevin McCarthy [R-CA23]</name>
+</person>
+<state>CA</state>
+<title_long>Representative</title_long>
+</item>
+<item>
+<district>9</district>
+<person>
+<firstname>Jerry</firstname>
+<lastname>McNerney</lastname>
+<name>Rep. Jerry McNerney [D-CA9]</name>
+</person>
+<state>CA</state>
+<title_long>Representative</title_long>
+</item>
+<item>
+<district>8</district>
+<person>
+<firstname>Albio</firstname>
+<lastname>Sires</lastname>
+<name>Rep. Albio Sires [D-NJ8]</name>
+</person>
+<state>NJ</state>
+<title_long>Representative</title_long>
+</item>
+<item>
+<district>45</district>
+<person>
+<firstname>John</firstname>
+<lastname>Campbell</lastname>
+<name>Rep. John Campbell [R-CA45]</name>
+</person>
+<state>CA</state>
+<title_long>Representative</title_long>
+</item>
+<item>
+<district>6</district>
+<person>
+<firstname>Doris</firstname>
+<lastname>Matsui</lastname>
+<name>Rep. Doris Matsui [D-CA6]</name>
+</person>
+<state>CA</state>
+<title_long>Representative</title_long>
+</item>
+<item>
+<district>16</district>
+<person>
+<firstname>Jim</firstname>
+<lastname>Costa</lastname>
+<name>Rep. Jim Costa [D-CA16]</name>
+</person>
+<state>CA</state>
+<title_long>Representative</title_long>
+</item>
+<item>
+<district>null</district>
+<person>
+<firstname>Dianne</firstname>
+<lastname>Feinstein</lastname>
+<name>Sen. Dianne Feinstein [D-CA]</name>
+</person>
+<state>CA</state>
+<title_long>Senator</title_long>
+</item>
+
+<item>
+<district>33</district>
+<person>
+<firstname>Henry</firstname>
+<lastname>Waxman</lastname>
+<name>Rep. Henry Waxman [D-CA33]</name>
+</person>
+<state>CA</state>
+<title_long>Representative</title_long>
+</item>
+<item>
+<district>43</district>
+<person>
+<firstname>Maxine</firstname>
+<lastname>Waters</lastname>
+<name>Rep. Maxine Waters [D-CA43]</name>
+</person>
+<state>CA</state>
+<title_long>Representative</title_long>
+</item>
+<item>
+<district>5</district>
+<person>
+<firstname>Mike</firstname>
+<lastname>Thompson</lastname>
+<name>Rep. Mike Thompson [D-CA5]</name>
+</person>
+<state>CA</state>
+<title_long>Representative</title_long>
+</item>
+<item>
+<district>30</district>
+<person>
+<firstname>Brad</firstname>
+<lastname>Sherman</lastname>
+<name>Rep. Brad Sherman [D-CA30]</name>
+</person>
+<state>CA</state>
+<title_long>Representative</title_long>
+</item>
+<item>
+<district>28</district>
+<person>
+<firstname>Adam</firstname>
+<lastname>Schiff</lastname>
+<name>Rep. Adam Schiff [D-CA28]</name>
+</person>
+<state>CA</state>
+<title_long>Representative</title_long>
+</item>
+<item>
+<district>46</district>
+<person>
+<firstname>Loretta</firstname>
+<lastname>Sanchez</lastname>
+<name>Rep. Loretta Sanchez [D-CA46]</name>
+</person>
+<state>CA</state>
+<title_long>Representative</title_long>
+</item>
+<item>
+<district>38</district>
+<person>
+<firstname>Linda</firstname>
+<lastname>Sánchez</lastname>
+<name>Rep. Linda Sánchez [D-CA38]</name>
+</person>
+<state>CA</state>
+<title_long>Representative</title_long>
+</item>
+<item>
+<district>39</district>
+<person>
+<firstname>Edward</firstname>
+<lastname>Royce</lastname>
+<name>Rep. Edward “Ed” Royce [R-CA39]</name>
+</person>
+<state>CA</state>
+<title_long>Representative</title_long>
+</item>
+<item>
+<district>40</district>
+<person>
+<firstname>Lucille</firstname>
+<lastname>Roybal-Allard</lastname>
+<name>Rep. Lucille Roybal-Allard [D-CA40]</name>
+</person>
+<state>CA</state>
+<title_long>Representative</title_long>
+</item>
+<item>
+<district>48</district>
+<person>
+<firstname>Dana</firstname>
+<lastname>Rohrabacher</lastname>
+<name>Rep. Dana Rohrabacher [R-CA48]</name>
+</person>
+<state>CA</state>
+<title_long>Representative</title_long>
+</item>
+<item>
+<district>12</district>
+<person>
+<firstname>Nancy</firstname>
+<lastname>Pelosi</lastname>
+<name>Rep. Nancy Pelosi [D-CA12]</name>
+</person>
+<state>CA</state>
+<title_long>Representative</title_long>
+</item>
+<item>
+<district>22</district>
+<person>
+<firstname>Devin</firstname>
+<lastname>Nunes</lastname>
+<name>Rep. Devin Nunes [R-CA22]</name>
+</person>
+<state>CA</state>
+<title_long>Representative</title_long>
+</item>
+<item>
+<district>32</district>
+<person>
+<firstname>Grace</firstname>
+<lastname>Napolitano</lastname>
+<name>Rep. Grace Napolitano [D-CA32]</name>
+</person>
+<state>CA</state>
+<title_long>Representative</title_long>
+</item>
+<item>
+<district>11</district>
+<person>
+<firstname>George</firstname>
+<lastname>Miller</lastname>
+<name>Rep. George Miller [D-CA11]</name>
+</person>
+<state>CA</state>
+<title_long>Representative</title_long>
+</item>
+<item>
+<district>31</district>
+<person>
+<firstname>Gary</firstname>
+<lastname>Miller</lastname>
+<name>Rep. Gary Miller [R-CA31]</name>
+</person>
+<state>CA</state>
+<title_long>Representative</title_long>
+</item>
+<item>
+<district>25</district>
+<person>
+<firstname>Howard</firstname>
+<lastname>McKeon</lastname>
+<name>Rep. Howard “Buck” McKeon [R-CA25]</name>
+</person>
+<state>CA</state>
+<title_long>Representative</title_long>
+</item>
+<item>
+<district>19</district>
+<person>
+<firstname>Zoe</firstname>
+<lastname>Lofgren</lastname>
+<name>Rep. Zoe Lofgren [D-CA19]</name>
+</person>
+<state>CA</state>
+<title_long>Representative</title_long>
+</item>
+
+<item>
+<district>49</district>
+<person>
+<firstname>Darrell</firstname>
+<lastname>Issa</lastname>
+<name>Rep. Darrell Issa [R-CA49]</name>
+</person>
+<state>CA</state>
+<title_long>Representative</title_long>
+</item>
+
+<item>
+<district>17</district>
+<person>
+<firstname>Michael</firstname>
+<lastname>Honda</lastname>
+<name>Rep. Michael “Mike” Honda [D-CA17]</name>
+</person>
+<state>CA</state>
+<title_long>Representative</title_long>
+</item>
+
+
+<item>
+<district>20</district>
+<person>
+<firstname>Sam</firstname>
+<lastname>Farr</lastname>
+<name>Rep. Sam Farr [D-CA20]</name>
+</person>
+<state>CA</state>
+<title_long>Representative</title_long>
+</item>
+
+<item>
+<district>18</district>
+<person>
+<firstname>Anna</firstname>
+<lastname>Eshoo</lastname>
+<name>Rep. Anna Eshoo [D-CA18]</name>
+</person>
+<state>CA</state>
+<title_long>Representative</title_long>
+</item>
+
+<item>
+<district>53</district>
+<person>
+<firstname>Susan</firstname>
+<lastname>Davis</lastname>
+<name>Rep. Susan Davis [D-CA53]</name>
+</person>
+<state>CA</state>
+<title_long>Representative</title_long>
+</item>
+
+
+
+
+
+<item>
+<district>24</district>
+<person>
+<firstname>Lois</firstname>
+<lastname>Capps</lastname>
+<name>Rep. Lois Capps [D-CA24]</name>
+</person>
+<state>CA</state>
+<title_long>Representative</title_long>
+</item>
+
+
+<item>
+<district>42</district>
+<person>
+<firstname>Ken</firstname>
+<lastname>Calvert</lastname>
+<name>Rep. Ken Calvert [R-CA42]</name>
+</person>
+<state>CA</state>
+<title_long>Representative</title_long>
+</item>
+
+
+
+
+
+<item>
+<district>34</district>
+<person>
+<firstname>Xavier</firstname>
+<lastname>Becerra</lastname>
+<name>Rep. Xavier Becerra [D-CA34]</name>
+</person>
+<state>CA</state>
+<title_long>Representative</title_long>
+</item>
+
+
+</objects>
+</response>

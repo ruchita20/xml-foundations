@@ -1,0 +1,41 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT response (objects)>
+<!ATTLIST response
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT objects (item*)>
+<!ATTLIST objects
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT item (district?,person,state?,title_long)>
+<!ATTLIST item
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT district (#PCDATA)>
+<!ATTLIST district
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT person (firstname,lastname,name)>
+<!ATTLIST person
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT state (#PCDATA)>
+<!ATTLIST state
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT title_long (#PCDATA)>
+<!ATTLIST title_long
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT firstname (#PCDATA)>
+<!ATTLIST firstname
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT lastname (#PCDATA)>
+<!ATTLIST lastname
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT name (#PCDATA)>
+<!ATTLIST name
+  xmlns CDATA #FIXED ''>
