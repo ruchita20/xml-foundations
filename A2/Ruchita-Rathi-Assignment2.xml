@@ -1,5 +1,27 @@
-
-<!DOCTYPE response SYSTEM "file:/Users/ruchitarathi/Dropbox/backup/f-2013/INFO-242/Due-Assignments/Assignment2/List-of-Current-Congress-Members.dtd">
+<?xml version = "1.0" standalone="no"?>
+<!DOCTYPE response [
+<!ELEMENT response (objects)*>
+  
+<!ELEMENT objects (item)*>
+<!ATTLIST objects
+  xmlns CDATA #FIXED ''>
+  
+<!ELEMENT item (district?,person,state?,title_long)>
+  
+<!ELEMENT district (#PCDATA)>
+  
+<!ELEMENT person (firstname,lastname,name?)>
+  
+<!ELEMENT state (#PCDATA)>
+  
+<!ELEMENT title_long (#PCDATA)>
+  
+<!ELEMENT firstname (#PCDATA)>
+  
+<!ELEMENT lastname (#PCDATA)>
+  
+<!ELEMENT name (#PCDATA)>
+]>
 <response>
 <objects>
 
